@@ -10,6 +10,6 @@ I'm a senior Computer Science student with a minor in Business at the University
 
 Now, I am passionate about utilizing machine learning and artificial intelligence to discover insights and building data processing applications.
 
-You can find out what sort of problems I'm working on by checking out my GitHub page. Currently, I am learning big data infrastructure, including Apache Hadoop and Spark
+You can find out what sort of problems I'm working on by checking out my <a class="page-link" href="https://github.com/danielpang/">GitHub</a> page.
 
 <img src="/profile_picture.png" style="float: left; margin-right: 10px;" />
